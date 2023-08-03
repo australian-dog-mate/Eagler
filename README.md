@@ -14,6 +14,9 @@
 
 **ALSO, IF IT DOESNT WORK, ANOTHER FIX IS TO RENAME THE REPLIT AND THEN RENAME IT BACK**
 
+# How to get this working
+### First, fork it on github, which you are most likely on right now. Then go to settings and go to pages. Then do whatever to get you server up and running
+
 ## Helpful video tutorial by a generous user
 motd changing is DIFFERENT than what these tutorials say!! -- check the `java/bungee_command/config.yml` for how to change (motd1 is first line, motd2 (you can add this) is the 2nd one)
 
